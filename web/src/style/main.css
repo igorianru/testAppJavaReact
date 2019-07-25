@@ -1,0 +1,21 @@
+body {
+  background-color: #ccc;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.list x-row {
+  padding: 0 15px;
+}
+
+.modal-open-i {
+  opacity: 1!important;
+  display: block;
+  margin-top: 15px;
+}
+
+.modal-open-i .modal-header{
+  margin-top: 15px;
+  display: block;
+}
